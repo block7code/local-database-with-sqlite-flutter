@@ -5,5 +5,5 @@ simple book with local database (sqlite)
 ## Getting Started
 
 # ScreenShot1
-![App UI](/demo/demo.png)
+![App UI](/demo/demo1.png)
 
