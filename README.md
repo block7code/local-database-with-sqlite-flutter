@@ -1,6 +1,6 @@
 # Sqflite - Local database flutter 
 
-A new Flutter project.
+simple book with local database (sqlite)
 
 ## Getting Started
 
