@@ -62,7 +62,7 @@ class _SqlliteHomePageState extends State<SqlliteHomePage> {
               ),
             ],
           ),
-          title: Text('TutorialKart - Flutter SQLite Tutorial'),
+          title: Text(' Flutter SQLite CRUD'),
         ),
         body: TabBarView(
           children: [
